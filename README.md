@@ -1,7 +1,7 @@
 # Web Scrapping and Regression Project
 
 Question: 
-Can we use some basic zillow features and geolocation dadta to predict where a home will trade? Is a listing overpriced? Is a listing stale?  
+Can we use some basic zillow features and geolocation data to predict where a home will trade? Is a listing overpriced? Is a listing stale?  
 
 Data Description: 
 My primary data set will be Zillow search results. As opposed to clicking into each listing, I will be scrapping from a results page (which will give me fewer features, but more data points). I aim to overlay outside data sources as well. I will use "sold homes" as my training set. Given data cleaning substantially cuts down the provided data, I will aim to widen my geographical area to create a more robust analysis. 
